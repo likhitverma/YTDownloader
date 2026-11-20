@@ -1,6 +1,0 @@
-node_modules/
-downloads/*
-!downloads/.gitkeep
-data/*
-!data/.gitkeep
-.env
